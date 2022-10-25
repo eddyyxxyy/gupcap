@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "gupcap"
+version = "0.1.0"
+description = ""
+authors = ["Edson Pimenta <edson.tibo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+blue = "^0.9.1"
+isort = "^5.10.1"
+pre-commit = "^2.20.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
