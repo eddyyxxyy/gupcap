@@ -1,4 +1,4 @@
-# Programação em Concorrente e Assíncrona em Python
+# Programação Concorrente e Assíncrona em Python
 
 <div>
 <img src =
