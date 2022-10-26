@@ -11,9 +11,8 @@ jupyter = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
-blue = {extras = ["jupyter"], version = "^0.9.1"}
-isort = "^5.10.1"
 pre-commit = "^2.20.0"
+nbqa = {extras = ["toolchain"], version = "^1.5.3"}
 
 [build-system]
 requires = ["poetry-core"]
