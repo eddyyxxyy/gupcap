@@ -13,6 +13,10 @@ jupyter = "^1.0.0"
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^2.20.0"
 nbqa = {extras = ["toolchain"], version = "^1.5.3"}
+black = "^22.10.0"
+
+[tool.black]
+line-length = 79
 
 [build-system]
 requires = ["poetry-core"]
