@@ -39,5 +39,5 @@ if __name__ == '__main__':
 """
 Teste do arquivo performance_padrao_python da seção 2: Terminou em "13.06" segundos.
 Teste do arquivo performance_python_threads da seção 3: Terminou em "9.06" segundos.
-Teste do arquivo performance_python_multiprocessos da seção 3: Terminou em "3" segundos.
+Teste do arquivo performance_python_multiprocessos da seção 3: Terminou em "3.38 segundos.
 """
