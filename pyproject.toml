@@ -15,6 +15,7 @@ pre-commit = "^2.20.0"
 nbqa = {extras = ["toolchain"], version = "^1.5.3"}
 black = "^22.10.0"
 colorama = "^0.4.6"
+aiofiles = "^22.1.0"
 
 [tool.black]
 line-length = 79
