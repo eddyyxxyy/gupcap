@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/nbQA-dev/nbQA
-  rev: 1.5.3
+  rev: 1.6.1
   hooks:
    - id: nbqa-black
      additional_dependencies: [black==22.10.0]
@@ -13,7 +13,7 @@ repos:
     hooks:
     -   id: blue
 -   repo: https://github.com/pycqa/isort
-    rev: 5.10.1
+    rev: 5.11.4
     hooks:
       - id: isort
         name: isort (python)
